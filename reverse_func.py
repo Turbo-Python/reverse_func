@@ -20,7 +20,7 @@ def reverse_stringD(s):
     return rev_string
     
 def reverse_stringE(s):
-'''String Reverse Using EWhile Loop'''
+'''String Reverse Using While Loop'''
     rev_string = ""
     a = len(s) - 1 
     while a >= 0:
