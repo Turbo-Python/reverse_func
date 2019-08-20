@@ -3,7 +3,7 @@ def reverse_stringA(string):
     return(string[::-1])
 
 def reverse_stringB(s):
-'''String Reverse Using str.join() and reversed()'''
+'''String Reverse Using reversed() and str.join()'''
     return(''.join(reversed(s)))
 
 def reverse_stringC(s):
